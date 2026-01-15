@@ -1,0 +1,8 @@
+PyPDF2
+pdf2image
+pytesseract
+nltk
+sentence-transformers
+scikit-learn
+numpy
+gpt4all
